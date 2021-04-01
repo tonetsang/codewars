@@ -1,0 +1,1 @@
+const toBinary = (n) => Number((n >>> 0).toString(2))
