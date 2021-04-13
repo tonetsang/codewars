@@ -1,0 +1,1 @@
+odds = values => values.filter(odd => odd % 2 === 1)
