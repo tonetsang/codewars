@@ -1,0 +1,1 @@
+square = sq => sq **2
