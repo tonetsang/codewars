@@ -1,0 +1,1 @@
+formatMoney = amount => '$' + Number.parseFloat(amount).toFixed(2)
