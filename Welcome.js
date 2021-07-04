@@ -35,4 +35,6 @@ function greet(language) {
     case 'welsh': 
       return 'Croeso';
     default: 
-      return 'Welcome';
+      return 'Welcome'
+  }
+}
