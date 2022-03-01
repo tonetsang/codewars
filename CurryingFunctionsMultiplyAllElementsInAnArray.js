@@ -1,0 +1,1 @@
+let multiplyAll = x => y => x.map(x => x * y) 
