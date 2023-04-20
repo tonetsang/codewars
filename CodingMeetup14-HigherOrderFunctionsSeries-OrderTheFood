@@ -1,0 +1,5 @@
+function orderFood(list) {
+  const meals = {}
+  list.map(x => meals[x.meal] = meals[x.meal] ? meals[x.meal] + 1 : 1)
+  return meals
+}
